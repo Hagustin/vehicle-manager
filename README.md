@@ -45,7 +45,7 @@ npm start
 
 ## Walkthrough Video
 
-[![Watch the walkthrough video](link_to_your_thumbnail_image)](https://screencastify.com/your_video_link)
+[![Watch the walkthrough video]](https://drive.google.com/file/d/1sPR3webLyakKMhXfshtTKldVjEXucZQf/view?usp=sharing)
 
 ## Contributing
 
